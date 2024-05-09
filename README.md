@@ -14,7 +14,7 @@ There are 5 CSV datasets:
   - EntriesGender
   - Medals
   - Teams
-<img src='Olympic-datasets.png' width=500>
+<img src='Datalake-datasets.png' width=500>
 ## 2. Transformation
 
 Deploy Databrick and utilize Pyspark to implement some basic data transformations such as formating datatype, sorting and cleaning. Then performing neccesary aggregations.
