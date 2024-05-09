@@ -16,12 +16,13 @@ There are 5 CSV datasets:
     
 ## 2. Transformation
 
-Deploy Databrick and utilize Pyspark to implement some basic data transformation such as formating datatype, sorting, cleaning. Then perform neccesary aggregations
-After finishing transformation tasks, I reloaded transformed data onto Data Lake Gen2.
+Deploy Databrick and utilize Pyspark to implement some basic data transformations such as formating datatype, sorting and cleaning. Then performing neccesary aggregations.
+After finishing transformation tasks, I restored transformed data onto Data Lake Gen2.
 
 ## 3. Loading
 
-Using Azure Synapse Analytics to create and schedule a pipeline which ingests transfomred data from Data Lake Gen2 automatically. Writing query to find insights of the data in Azure Synapase Lake database.
+Using Azure Synapse Analytics to create and schedule a pipeline which ingests transfomred data from Data Lake Gen2 automatically
+Writing query to find insights of the data in Azure Synapase Lake database.
 
 # 4. Visualization
 
