@@ -2,7 +2,7 @@
 
 ## Project Descrtiption:
 In this project, I built a project that runs in Azure Cloud Service and perform the ETL process of Olympic Data dataset from kaggle.
-<img src='project-idea.png' width=250>
+<img src='project-idea.png' width=500>
 
 ## 1. Extraction
 
